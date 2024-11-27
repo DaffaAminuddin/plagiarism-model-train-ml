@@ -4,4 +4,4 @@
 
 Dataset menggunakan [PAWS (Paraphrase Word Scrambling)](https://www.kaggle.com/datasets/thedevastator/the-paws-dataset-for-paraphrase-identification)
 
-Projek ini bertujuan membuat model plagiarism dectect (EN) berdasarkan dataset. Menggunakan berbagai algoritma seperti RandomForest, SVM, dan Naiv Bays
+Projek ini bertujuan membuat model plagiarism detection (EN) berdasarkan dataset. Menggunakan berbagai algoritma seperti RandomForest, SVM, dan Naiv Bays
